@@ -97,3 +97,6 @@ span.pc, span.npc, span.location, span.items {
 	font-weight: bold;
 }
 
+.completed {
+	text-decoration: line-through;
+}
